@@ -2,11 +2,14 @@
 
 I'm **Julien Maitrehenry**, a Backend/Go developer, DevOps Engineer and Docker Captain. I have a passion for cloud computing, containers, and automation. Currently, I'm working as Chief Architect at Paren.
 
+![](https://github-readme-stats.vercel.app/api?username=jmaitrehenry&show_icons=true&theme=buefy&count_private=true&include_all_commits=true&hide=stars)
+
 ## 🔧 Technologies & Tools
 
 - **Languages**: Go
 - **Tools**: Docker, Kubernetes, ansible, terraform
 - **Cloud**: AWS, Azure, Digital Ocean, OVH Cloud, Google Cloud
+- **Databases**: MySQL, MariaDB, Redis/ValKey, Opensearch
 
 ## 💬 Ask Me About
 
@@ -14,11 +17,14 @@ I'm **Julien Maitrehenry**, a Backend/Go developer, DevOps Engineer and Docker C
 - DevOps practices and tools
 - Cloud computing
 - Go
+- Distributed system
 
 ## 📫 How to Reach Me
 
 - GitHub: [jmaitrehenry](https://github.com/jmaitrehenry)
 - LinkedIn: [Julien Maitrehenry](https://linkedin.com/in/jmaitrehenry)
+- Website: [Julien Maitrehenry](https://www.jmaitrehenry.ca)
+- Speakerdeck: [jmaitrehenry](https://speakerdeck.com/jmaitrehenry)
 
 ## ⚡ Fun Fact
 
