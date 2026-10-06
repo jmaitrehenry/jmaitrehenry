@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Julien Maitrehenry**, a Backend/Go developer, DevOps Engineer and Docker Captain. I have a passion for cloud computing, containers, and automation. Currently, I'm working as Chief Architect at Paren.
+I'm **Julien Maitrehenry**, a Backend/Go developer, DevOps Engineer and Docker Captain. I have a passion for cloud computing, containers, and automation. Currently, I'm working as CTO at Paren.
 
 ![](./profile/stats.svg)
 
