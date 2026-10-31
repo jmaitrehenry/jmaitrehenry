@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Julien Maitrehenry&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 63, Total Commits  : 2503, Total PRs: 180, Total Issues: 66, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 63, Total Commits  : 2512, Total PRs: 180, Total Issues: 66, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 60.08051855821988;
+        stroke-dashoffset: 60.034564425956354;
       }
     }
   
